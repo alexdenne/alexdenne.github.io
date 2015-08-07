@@ -5,3 +5,5 @@
 #Now I'm trying out commit shortcuts.
 
 #Just trying out branches
+
+#Let's make a merge conflict as a test
