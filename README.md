@@ -7,3 +7,6 @@
 #Just trying out branches
 
 #Let's make a merge conflict as a test
+#This is another comment about merge confliction
+
+#I resolved the merge manually as they were on the same line
